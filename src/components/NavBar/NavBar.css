@@ -1,0 +1,26 @@
+
+
+
+.titulo{
+    color: rgb(245, 243, 243);
+    font-size: 45px;
+    margin-right: 60px;
+   
+    padding: 10px;
+  }
+  
+  .productos{
+    border: 2px solid yellow;
+    border-radius: 20px;
+    margin: 10px;
+  }
+  .ofertas{
+    border: 2px solid yellow;
+    border-radius: 20px;
+    margin:10px
+  }
+  .favoritos{
+    border: 2px solid yellow;
+    border-radius: 20px;
+    margin: 10px;
+  }
