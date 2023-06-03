@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Primera-PreEntrega-React/static/css/main.85cc5e8b.css",
+    "main.js": "/Primera-PreEntrega-React/static/js/main.f9e57c30.js",
+    "static/media/bootstrap-icons.woff?": "/Primera-PreEntrega-React/static/media/bootstrap-icons.4753c5ba57962b4d7bf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/Primera-PreEntrega-React/static/media/bootstrap-icons.6d63d0501e5ed7b79dab.woff2",
+    "index.html": "/Primera-PreEntrega-React/index.html",
+    "main.85cc5e8b.css.map": "/Primera-PreEntrega-React/static/css/main.85cc5e8b.css.map",
+    "main.f9e57c30.js.map": "/Primera-PreEntrega-React/static/js/main.f9e57c30.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85cc5e8b.css",
+    "static/js/main.f9e57c30.js"
+  ]
+}
